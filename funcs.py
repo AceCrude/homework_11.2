@@ -1,6 +1,9 @@
 def get_sum(sum_1, sum_2):
-    summ = sum_1 + sum_2
+    sum = sum_1 + sum_2
 
-    return summ
+    return sum
 
-get_summ()
+def get_sub(sub_1, sub_2):
+    sub = sub_1 - sub_2
+    return sub
+
