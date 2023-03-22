@@ -1,4 +1,6 @@
 def caps_input(str):
+    """docstring
+    """
     return str.upper()
 
 
