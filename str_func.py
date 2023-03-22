@@ -1,5 +1,5 @@
 def caps_input(str):
-    """docstring
+    """docstrings
     """
     return str.upper()
 
@@ -10,7 +10,7 @@ print(caps)
 
 
 def caps_input(str):
-    """docstring
+    """docstrings
     """
     return str.title()
 
